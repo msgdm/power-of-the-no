@@ -5,7 +5,7 @@ int main()
   int d=1;
   printf("\nEnter a number");
   scanf("%d",&b);
-  printf("\nEnter power");
+  printf("\nEnter the power");
   scanf("%d",&a);
   while(c<=a)
   {
